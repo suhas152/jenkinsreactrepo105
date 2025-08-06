@@ -8,7 +8,7 @@ const Dashboard = () => {
   return (
     <Container sx={{ mt: 4 }}>
       <Typography variant="h4" gutterBottom>
-        ERP Dashboard
+        ERP Dashboard - K L University
       </Typography>
       <Grid container spacing={3}>
         <Grid item xs={12} sm={6} md={4}>
